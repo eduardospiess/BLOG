@@ -1,7 +1,5 @@
 
 # BLOG
-
-=================================================================================================
 **apresentação__dos__conteúdos**
 =================================================================================================
 1.Dentro dos arquivos terminados com a extensão (.html) conseguimos encontrar os botões, a logo
